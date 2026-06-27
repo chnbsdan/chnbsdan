@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/chnbsdan"><img align="center" src="https://github-readme-puce.vercel.app/api?username=chnbsdan&show_icons=true&hide=contribs&theme=ambient_gradient&hide_border=true&locale=cn" alt="chnbsdan's github stats" /></a> | <a href="https://github.com/chnbsdan"><img align="center" src="https://github-readme-puce.vercel.app/api/top-langs/?username=chnbsdan&layout=compact&theme=ambient_gradient&hide_border=true&locale=cn" /></a> |
+| <a href="https://github.com/chnbsdan"><img align="center" src="https://github-readme-stats.hangdn.com/?username=chnbsdan&theme=tokyonight" alt="chnbsdan's github stats" /></a> | <a href="https://github.com/chnbsdan"><img align="center" src="https://github-readme-puce.vercel.app/api/top-langs/?username=chnbsdan&layout=compact&theme=ambient_gradient&hide_border=true&locale=cn" /></a> |
 | ------------- | ------------- |
