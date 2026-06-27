@@ -1,6 +1,6 @@
 # 👋 欢迎来到我的GitHub仓库
 
-[![GitHub统计](https://github-readme-stats.hangdn.com/?username=chnbsdan&theme=tokyonight)](https://github.com/chnbsdan)
+https://github-readme-stats.hangdn.com/?username=chnbsdan&theme=tokyonight
 
 ## 🚀 关于这个仓库
 
