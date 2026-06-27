@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/chnbsdan">
-        <img src="https://github-readme-stats.hangdn.com/?username=chnbsdan&theme=tokyonight" alt="chnbsdan's github stats" width="400" height="195" />
+        <img src="https://github-readme-stats.hangdn.com/?username=chnbsdan&theme=tokyonight" alt="chnbsdan's github stats" width="400" height="250" />
       </a>
     </td>
     <td align="center" width="50%">
