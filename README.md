@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="60%">
       <a href="https://github.com/chnbsdan">
         <img src="https://github-readme-stats.hangdn.com/?username=chnbsdan&theme=tokyonight" alt="chnbsdan's github stats" />
       </a>
