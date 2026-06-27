@@ -24,12 +24,12 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/chnbsdan">
-        <img src="https://github-readme-stats.hangdn.com/?username=chnbsdan&theme=tokyonight" alt="chnbsdan's github stats" width="400" height="250" />
+        <img src="https://github-readme-stats.hangdn.com/?username=chnbsdan&theme=tokyonight" alt="chnbsdan's github stats" width="400" height="195" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/chnbsdan">
-        <img src="https://github-readme-puce.vercel.app/api/top-langs/?username=chnbsdan&layout=compact&theme=ambient_gradient&hide_border=true&locale=cn" width="400" height="195" />
+        <img src="https://github-readme-puce.vercel.app/api/top-langs/?username=chnbsdan&layout=compact&theme=ambient_gradient&hide_border=true&locale=cn" width="300" height="195" />
       </a>
     </td>
   </tr>
