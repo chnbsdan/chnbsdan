@@ -27,7 +27,7 @@ Here are some ideas to get you started:
         <img src="https://github-readme-stats.hangdn.com/?username=chnbsdan&theme=tokyonight" alt="chnbsdan's github stats" />
       </a>
     </td>
-    <td align="center" width="450%">
+    <td align="center" width="430%">
       <a href="https://github.com/chnbsdan">
         <img src="https://github-readme-puce.vercel.app/api/top-langs/?username=chnbsdan&layout=compact&theme=ambient_gradient&hide_border=true&locale=cn" />
       </a>
